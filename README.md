@@ -1,6 +1,7 @@
 # AE
 黑群晖AE使用
 
+引自 https://xpenology.com/forum/topic/65643-ame-30-patcher/
 
 
 ## 安装使用
